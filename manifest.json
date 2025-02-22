@@ -14,7 +14,7 @@
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/policy.json",
+        "Value": "https://raw.githubusercontent.com/xiaofan663689/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
     }
 }
