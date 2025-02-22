@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "xiaofan"
+    "OrganizationName": "xiaofan",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/xiaofan663689/classisland-mgmt-cfg/master/{id}/classplans.json",
         "Version": 2
